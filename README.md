@@ -1,7 +1,5 @@
 # DVD-Rental-database-Analysis
 
-# Sakila DVD Rental database Analysis
-
 
 ## Introduction
 
