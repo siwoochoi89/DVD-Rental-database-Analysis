@@ -63,13 +63,17 @@ Now, we are ready to run some queries. For that, we need to click on the SQL ico
 ## Questions to work upon for analysis
 
 **Question 1**
+
 How many non-family-friendly rentals happen after 22:00, and how many happen before? What about family-friendly rentals?
 
 **Question 2**
+
 What are the top categories that brought in the long rental average?
 
 **Question 3**
+
 Which category of non-family-friendly films are the most popular?
 
 **Question 4**
+
 What are the most rental categories of the family movies?
