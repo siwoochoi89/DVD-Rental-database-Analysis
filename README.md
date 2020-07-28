@@ -11,13 +11,17 @@ In this project, we have queried the Sakila DVD Rental database. The Sakila Data
 Follow the steps provided below to setup the local environment with **PostgreSQL** and database
 
 **Step 1. Downloading PostgreSQL**
+
 First, we will need to install PostgreSQL on your local machine. The instructions below provide detailed description of the steps we need to take.
 
 **Installing PostgreSQL for Windows:**
+
 http://www.postgresqltutorial.com/install-postgresql/
 
 **Installing PostgreSQL for Mac OS:**
+
 https://www.postgresql.org/download/macosx/
+
 **Note:** We need to write down the database superuser (postgres) password as we will need it to create the Sakila database once we have installed the PostgreSQL server.
 
 **Step 2. Downloading Sakila database**
